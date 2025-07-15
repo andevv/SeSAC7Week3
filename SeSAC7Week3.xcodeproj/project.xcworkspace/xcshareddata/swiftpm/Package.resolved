@@ -1,5 +1,5 @@
 {
-  "originHash" : "24e14c0d3dc2e36099c7debc6d281201aca860af0cc0e3bfb968a604441909cf",
+  "originHash" : "ce1ea324c94c701a6a86a30580f17b750928370211474976d777126029a693c3",
   "pins" : [
     {
       "identity" : "iqkeyboardcore",
@@ -78,8 +78,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/onevcat/Kingfisher",
       "state" : {
-        "revision" : "ef40458c27ccc65aec62c0cc65da296e07264ffd",
-        "version" : "8.4.0"
+        "revision" : "2015fda791daa72c8058619545a593bf8c1dd59f",
+        "version" : "8.5.0"
       }
     },
     {
